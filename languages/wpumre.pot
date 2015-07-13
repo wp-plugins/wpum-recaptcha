@@ -1,0 +1,127 @@
+# Copyright (C) 2015 Alessandro Tesoro
+# This file is distributed under the GPLv2+.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPUM - reCAPTCHA 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wpum-recaptcha\n"
+"POT-Creation-Date: 2015-07-08 09:16:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: includes/class.extension-activation.php:45
+msgid "This plugin"
+msgstr ""
+
+#: includes/class.extension-activation.php:80
+msgid "activate it"
+msgstr ""
+
+#: includes/class.extension-activation.php:83
+msgid "install it"
+msgstr ""
+
+#: includes/class.extension-activation.php:86
+msgid " requires WP User Manager! Please %s to continue!"
+msgstr ""
+
+#: includes/markup.php:47 includes/validation.php:49
+msgid "Captcha validation failed."
+msgstr ""
+
+#: includes/options.php:26
+msgid "reCAPTCHA Settings"
+msgstr ""
+
+#: includes/options.php:31
+msgid "Site Key"
+msgstr ""
+
+#: includes/options.php:32
+msgid "Enter your site key."
+msgstr ""
+
+#: includes/options.php:32 includes/options.php:38
+msgid "Get your reCAPTCHA keys from <a href=\"%s\" target=\"_blank\">Google</a>"
+msgstr ""
+
+#: includes/options.php:37
+msgid "Secret Key"
+msgstr ""
+
+#: includes/options.php:38
+msgid "Enter your site secret key."
+msgstr ""
+
+#: includes/options.php:43
+msgid "Display location:"
+msgstr ""
+
+#: includes/options.php:44
+msgid "Select in which forms you wish to display the recaptcha field."
+msgstr ""
+
+#: includes/options.php:46
+msgid "Select one or more forms from the list."
+msgstr ""
+
+#: includes/options.php:49
+msgid "Registration"
+msgstr ""
+
+#: includes/options.php:50
+msgid "Password recovery"
+msgstr ""
+
+#: includes/options.php:51
+msgid "Login"
+msgstr ""
+
+#: includes/validation.php:52
+msgid "Secret key missing."
+msgstr ""
+
+#: includes/validation.php:55
+msgid "Your secret key is invalid."
+msgstr ""
+
+#: includes/validation.php:58
+msgid "Invalid response."
+msgstr ""
+
+#: includes/validation.php:61
+msgid "Something went wrong during validation of the captcha."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WPUM - reCAPTCHA"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wpusermanager.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Stop spam registrations on your website for free. This is an extension for "
+"the WP User Manager plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Alessandro Tesoro"
+msgstr ""
